@@ -8,7 +8,7 @@ int main()
 {
 
     int suma = 0;
-    for (int i = 1; i <= 10; ++i) {
+    for (int i = 1; i <= 20; ++i) {
         suma += i;
         cout << i << endl;
 
@@ -16,7 +16,7 @@ int main()
     }
     cout << "Suma liczb " << suma << endl;
     int liczba = 0;
-    for (int y = 1; y <= 10; y = y + 2) {
+    for (int y = 1; y <= 20; y = y + 2) {
         liczba += y;
 
 
