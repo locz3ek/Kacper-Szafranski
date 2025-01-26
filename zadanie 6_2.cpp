@@ -47,8 +47,8 @@ int main()
     srd = sum / size;
 
 
-    cout << "Suma liczb: " << sum << endl;
-    cout << "Srednia liczb: " << srd << endl;
+    cout << "liczb suma: " << sum << endl;
+    cout << "liczb srednia: " << srd << endl;
     cout << "Srednia liczb zaokraglona w dol: " << floor(srd) << endl;
     cout << "Srednia liczb zaokraglona w gore: " << round(srd) << endl;
 
