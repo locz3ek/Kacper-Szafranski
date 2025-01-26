@@ -49,8 +49,8 @@ int main()
 
     cout << "liczb suma: " << sum << endl;
     cout << "liczb srednia: " << srd << endl;
-    cout << "Srednia liczb zaokraglona w dol: " << floor(srd) << endl;
-    cout << "Srednia liczb zaokraglona w gore: " << round(srd) << endl;
+    cout << "Srednia liczb w dol: " << floor(srd) << endl;
+    cout << "Srednia liczb w gore: " << round(srd) << endl;
 
 
 
